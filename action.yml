@@ -1,6 +1,6 @@
 name: 'Firebase App Distribution'
 description: 'GitHub Action that uploads artifacts to Firebase App Distribution'
-author: 'Wojciech Zięba <@wzieba>'
+author: 'YOVO-LABS'
 inputs:
   appId:
     description: 'App id can be found on the General Settings page'
